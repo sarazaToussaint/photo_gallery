@@ -49,7 +49,7 @@ run: `npm run dev`
 
 1. run: `cd Challenges ` in the terminal, make sure to run this command on the photo_gallery's root directory. For example on my computer I can see this: `C:\Users\Saraza\Documents\photo_gallery>...` hit `Enter key`
 
-2. Once you're already in `Challenges` directoy, you'll see a path like this on your computer: `C:\Users\Saraza\Documents\photo_gallery>Challenges`.
+2. Once you're already in `Challenges` directoy, you'll see a path like this on your computer: `C:\Users\Saraza\Documents\photo_gallery>Challenges>`.
 
 3. - Now you can run: `node arrayMap` then hit `Enter key` to test the Array Manipulation coding  challenge, check the result in the terminal. Note that `arrayMap` is the file's name for this coding challenge. 
 - Use the same command to test the String Transformation challenge run: `node stringTransform`
