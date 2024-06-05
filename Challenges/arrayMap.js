@@ -21,7 +21,4 @@ function subarraySumExists(arr, target) {
   return false;
 }
 
-// Example usage:
-// let arr = [4, 2, 7, 1, 9, 5];
-// let target = 17;
 console.log(subarraySumExists([4, 2, 7, 1, 9, 5], 17)); // Output: true
