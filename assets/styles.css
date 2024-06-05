@@ -11,20 +11,22 @@ html {
 }
 
 .container {
-  width: 80%;
-  max-width: 800px;
+  /* width: 80%;
+  max-width: 800px; */
+  width: 400px;
+  height: 600px;
 }
 
 .thumbnails {
   display: flex;
   justify-content: space-between;
-  gap: 5px;
+  gap: 2px;
 }
 
 .thumbnail {
   position: relative;
-  width: 200px;
-  height: 530px;
+  width: 293px;
+  height: 588px;
   object-fit: cover;
   cursor: pointer;
   transition: transform 0.3s ease;
