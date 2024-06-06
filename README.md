@@ -21,6 +21,8 @@
 
 ### Prerequisites
 
+To view and edit this project, you will need a basic understanding of HTML, CSS, and JavaScript. You will also need a code editor and a web browser.
+
 You need the following tools being installed in your computer:
 
 - Git
@@ -47,7 +49,7 @@ run: `npm run dev`
 
 ### To test the coding challenges in this photo_gallery directory do as follow:
 
-1. run: `cd Challenges ` in the terminal, make sure to run this command on the photo_gallery's root directory. For example on my computer I can see this: `C:\Users\Saraza\Documents\photo_gallery>...` hit `Enter key`
+1. run: `cd Challenges ` in the terminal, make sure to run this command on the photo_gallery's root directory. For example on my computer I can see this: `C:\Users\Saraza\Documents\photo_gallery>cd Challenges`, then hit `Enter key`
 
 2. Once you're already in `Challenges` directoy, you'll see a path like this on your computer: `C:\Users\Saraza\Documents\photo_gallery>Challenges>`.
 
