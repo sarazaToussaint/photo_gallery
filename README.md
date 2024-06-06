@@ -18,10 +18,6 @@
 - git
 - linters (EsLint, styleLint)
 
-## Live Demo
-
-[Live Demo Link]()
-
 ## Getting Started
 
 **To get local copy up and running the application follow these simple steps:**
