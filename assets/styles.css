@@ -11,10 +11,8 @@ html {
 }
 
 .container {
-  /* width: 80%;
-  max-width: 800px; */
-  width: 400px;
-  height: 600px;
+  width: 80%;
+  max-width: 900px;
 }
 
 .thumbnails {
@@ -66,7 +64,7 @@ html {
   display: none;
   position: fixed;
   z-index: 1000;
-  padding-top: 60px;
+  padding-top: 10px;
   left: 0;
   top: 0;
   width: 100%;
@@ -78,8 +76,10 @@ html {
 .lightbox-content {
   margin: auto;
   display: block;
-  width: 80%;
-  max-width: 700px;
+  width: 35%;
+  height: 540px;
+  margin-top: 2rem ;
+  margin-bottom: 2rem;
 }
 
 .close,
@@ -101,15 +101,35 @@ html {
 }
 
 .prev {
-  left: 10px;
+  left: 40px;
 }
 
 .next {
-  right: 10px;
+  right: 40px;
 }
 
 .close:hover,
 .prev:hover,
 .next:hover {
   color: #bbb;
+  background-color: red;
 }
+
+@media screen and (max-width: 990px) {
+  .lightbox-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    margin-top: 3rem ;
+    margin-bottom: 2rem;
+  }
+
+  .prev {
+    left: 10px;
+  }
+  
+  .next {
+    right: 10px;
+  }
+  
+  }
