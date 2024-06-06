@@ -2,6 +2,13 @@
 
 > This project is an interactive photo gallery built using HTML, CSS, and JavaScript. It features a responsive grid layout, hover effects, and can be extended with additional interactivity such as opening a modal view of the images.
 
+## Features
+
+- Responsive design
+- Hover effects with image zoom
+- Full-size image viewing navigation when a user clicks on thumbnail
+- Easy to extend with additional interactivity
+
 ## Techologies
 
 - Html
