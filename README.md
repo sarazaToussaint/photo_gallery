@@ -86,6 +86,11 @@ Feel free to check the [issues page](https://github.com/sarazaToussaint/photo_ga
 ## Show your support
 Give a ⭐️ if you like this project!
 
+### Acknowledgements
+
+- Thanks to Code Of Africa's team for this an inspired figma design of interactive photo galleries.
+
+
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
