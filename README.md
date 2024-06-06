@@ -45,6 +45,12 @@ run: `npm install`
 
 run: `npm run dev`
 
+### Usage
+
+1. Open the `index.html` file in your web browser to view the gallery.
+2. Edit the `styles.css` file to customize the gallery's appearance.
+3. Edit the `scripts.js` file to add more interactivity.
+
 # Coding Challenges
 
 ### To test the coding challenges in this photo_gallery directory do as follow:
